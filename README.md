@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mathematics, Cryptography, Coding
 - 🌱 I’m currently refreshing C++
 - 💞️ I’m looking to collaborate on cryptography or mathematics projects
-- 📫 How to reach me: send me an email at @aehogo@gmail.com
+- 📫 How to reach me: send me an email
 - ⚡ Fun fact: Living in Japan
 
 <!---
